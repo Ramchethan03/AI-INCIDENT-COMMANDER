@@ -1,0 +1,9 @@
+{
+    "service": "payment-api",
+    "cpu": 87,
+    "memory": 76,
+    "error_rate": 18.4,
+    "latency_ms": 2400,
+    "http_500_rate": 17,
+    "requests_per_minute": 1200
+}

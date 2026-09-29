@@ -1,0 +1,6 @@
+ALLOWED_ACTIONS = [
+    "ROLLBACK",
+    "RESTART",
+    "SCALE",
+    "CLEAR_CACHE"
+]
